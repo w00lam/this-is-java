@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55646511-0aba-4681-bcb8-aa3272ebb495" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="55646511-0aba-4681-bcb8-aa3272ebb495" name="Changes" comment="chapter2">
+      <change beforePath="$PROJECT_DIR$/src/ch03/InfinityAndNanCheckExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/InfinityAndNanCheckExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +23,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
@@ -38,6 +40,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.FloatDoubleExample.executor": "Run",
+    "Application.InfinityAndNanCheckExample.executor": "Run",
     "Application.IntegerLiteralExample.executor": "Run",
     "Application.LongExample.executor": "Run",
     "Application.TextBlockExample.executor": "Run",
@@ -69,8 +72,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708063231713</updated>
-      <workItem from="1708063232672" duration="3636000" />
+      <workItem from="1708063232672" duration="4521000" />
     </task>
+    <task id="LOCAL-00001" summary="chapter2">
+      <option name="closed" value="true" />
+      <created>1708067714425</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708067714426</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,5 +98,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chapter2" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter2" />
   </component>
 </project>
