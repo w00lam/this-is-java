@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55646511-0aba-4681-bcb8-aa3272ebb495" name="Changes" comment="chapter2">
-      <change beforePath="$PROJECT_DIR$/src/ch03/InfinityAndNanCheckExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/InfinityAndNanCheckExample.java" afterDir="false" />
+    <list default="true" id="55646511-0aba-4681-bcb8-aa3272ebb495" name="Changes" comment="chapter3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +26,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2cR8rkmMZ1955PtAPK4CHSK6eeF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -39,6 +39,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BitLogicExample.executor": "Run",
     "Application.FloatDoubleExample.executor": "Run",
     "Application.InfinityAndNanCheckExample.executor": "Run",
     "Application.IntegerLiteralExample.executor": "Run",
@@ -72,7 +73,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708063231713</updated>
-      <workItem from="1708063232672" duration="4521000" />
+      <workItem from="1708063232672" duration="5193000" />
+      <workItem from="1708316980681" duration="29000" />
+      <workItem from="1708328092683" duration="1050000" />
+      <workItem from="1708415234658" duration="196000" />
+      <workItem from="1708494466933" duration="1636000" />
     </task>
     <task id="LOCAL-00001" summary="chapter2">
       <option name="closed" value="true" />
@@ -82,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708067714426</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="chapter3">
+      <option name="closed" value="true" />
+      <created>1708068625312</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708068625312</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +114,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="chapter2" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter2" />
+    <MESSAGE value="chapter3" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter3" />
   </component>
 </project>
