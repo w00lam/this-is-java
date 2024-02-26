@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55646511-0aba-4681-bcb8-aa3272ebb495" name="Changes" comment="chapter3">
+    <list default="true" id="55646511-0aba-4681-bcb8-aa3272ebb495" name="Changes" comment="chapter4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,29 +38,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BitLogicExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BreakOutterExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FloatDoubleExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IfDiceExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InfinityAndNanCheckExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IntegerLiteralExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LongExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SwitchValueExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TextBlockExample.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayCopyExample.executor": "Run",
+    "Application.ArrayCreateByValueListExample2.executor": "Run",
+    "Application.BitLogicExample.executor": "Run",
+    "Application.BreakOutterExample.executor": "Run",
+    "Application.CharAtExample.executor": "Run",
+    "Application.EmptyStringExample.executor": "Run",
+    "Application.EqualsExample.executor": "Run",
+    "Application.FloatDoubleExample.executor": "Run",
+    "Application.IfDiceExample.executor": "Run",
+    "Application.IndexOfContainsExample.executor": "Run",
+    "Application.InfinityAndNanCheckExample.executor": "Run",
+    "Application.IntegerLiteralExample.executor": "Run",
+    "Application.LongExample.executor": "Run",
+    "Application.SubStringExample.executor": "Run",
+    "Application.SwitchValueExample.executor": "Run",
+    "Application.TextBlockExample.executor": "Run",
+    "Application.WeekExample.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -82,7 +90,7 @@
       <workItem from="1708328092683" duration="1050000" />
       <workItem from="1708415234658" duration="196000" />
       <workItem from="1708494466933" duration="4279000" />
-      <workItem from="1708917214840" duration="1146000" />
+      <workItem from="1708917214840" duration="8715000" />
     </task>
     <task id="LOCAL-00001" summary="chapter2">
       <option name="closed" value="true" />
@@ -108,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708497427243</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="chapter4">
+      <option name="closed" value="true" />
+      <created>1708918747301</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708918747301</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +144,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="chapter2" />
     <MESSAGE value="chapter3" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter3" />
+    <MESSAGE value="chapter4" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter4" />
   </component>
 </project>
