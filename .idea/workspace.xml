@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55646511-0aba-4681-bcb8-aa3272ebb495" name="Changes" comment="chapter4">
+    <list default="true" id="55646511-0aba-4681-bcb8-aa3272ebb495" name="Changes" comment="chapter5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,10 @@
     "Application.ArrayCreateByValueListExample2.executor": "Run",
     "Application.BitLogicExample.executor": "Run",
     "Application.BreakOutterExample.executor": "Run",
+    "Application.CalculatorExample.executor": "Run",
+    "Application.CarExample.executor": "Run",
     "Application.CharAtExample.executor": "Run",
+    "Application.ComputerExample.executor": "Run",
     "Application.EmptyStringExample.executor": "Run",
     "Application.EqualsExample.executor": "Run",
     "Application.FloatDoubleExample.executor": "Run",
@@ -52,6 +55,7 @@
     "Application.IndexOfContainsExample.executor": "Run",
     "Application.InfinityAndNanCheckExample.executor": "Run",
     "Application.IntegerLiteralExample.executor": "Run",
+    "Application.KoreanExample.executor": "Run",
     "Application.LongExample.executor": "Run",
     "Application.SubStringExample.executor": "Run",
     "Application.SwitchValueExample.executor": "Run",
@@ -90,7 +94,8 @@
       <workItem from="1708328092683" duration="1050000" />
       <workItem from="1708415234658" duration="196000" />
       <workItem from="1708494466933" duration="4279000" />
-      <workItem from="1708917214840" duration="8715000" />
+      <workItem from="1708917214840" duration="9334000" />
+      <workItem from="1709099952532" duration="6363000" />
     </task>
     <task id="LOCAL-00001" summary="chapter2">
       <option name="closed" value="true" />
@@ -124,7 +129,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708918747301</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="chapter5">
+      <option name="closed" value="true" />
+      <created>1708931139983</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708931139983</updated>
+    </task>
+    <task id="LOCAL-00006" summary="chapter5">
+      <option name="closed" value="true" />
+      <created>1708931153723</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708931153723</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +166,7 @@
     <MESSAGE value="chapter2" />
     <MESSAGE value="chapter3" />
     <MESSAGE value="chapter4" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter4" />
+    <MESSAGE value="chapter5" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter5" />
   </component>
 </project>
