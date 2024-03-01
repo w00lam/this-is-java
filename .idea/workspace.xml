@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55646511-0aba-4681-bcb8-aa3272ebb495" name="Changes" comment="chapter5">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,12 +43,15 @@
   "keyToString": {
     "Application.ArrayCopyExample.executor": "Run",
     "Application.ArrayCreateByValueListExample2.executor": "Run",
+    "Application.BankApplication.executor": "Run",
     "Application.BitLogicExample.executor": "Run",
     "Application.BreakOutterExample.executor": "Run",
     "Application.CalculatorExample.executor": "Run",
+    "Application.Car.executor": "Run",
     "Application.CarExample.executor": "Run",
     "Application.CharAtExample.executor": "Run",
     "Application.ComputerExample.executor": "Run",
+    "Application.EarthExample.executor": "Run",
     "Application.EmptyStringExample.executor": "Run",
     "Application.EqualsExample.executor": "Run",
     "Application.FloatDoubleExample.executor": "Run",
@@ -57,8 +61,10 @@
     "Application.IntegerLiteralExample.executor": "Run",
     "Application.KoreanExample.executor": "Run",
     "Application.LongExample.executor": "Run",
+    "Application.SingletonExample.executor": "Run",
     "Application.SubStringExample.executor": "Run",
     "Application.SwitchValueExample.executor": "Run",
+    "Application.TelevisionExample.executor": "Run",
     "Application.TextBlockExample.executor": "Run",
     "Application.WeekExample.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -96,6 +102,7 @@
       <workItem from="1708494466933" duration="4279000" />
       <workItem from="1708917214840" duration="9334000" />
       <workItem from="1709099952532" duration="6363000" />
+      <workItem from="1709280355548" duration="8954000" />
     </task>
     <task id="LOCAL-00001" summary="chapter2">
       <option name="closed" value="true" />
