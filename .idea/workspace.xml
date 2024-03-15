@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55646511-0aba-4681-bcb8-aa3272ebb495" name="Changes" comment="chapter6">
+    <list default="true" id="55646511-0aba-4681-bcb8-aa3272ebb495" name="Changes" comment="chapter7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +23,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;w00lam&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="51b49783-486d-4187-a39c-5da2fcbe0be2" />
+        <option name="url" value="https://github.com/w00lam/this-is-java.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -38,58 +52,58 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AbstractMethodExample.executor": "Run",
-    "Application.ArrayCopyExample.executor": "Run",
-    "Application.ArrayCreateByValueListExample2.executor": "Run",
-    "Application.BankApplication.executor": "Run",
-    "Application.BitLogicExample.executor": "Run",
-    "Application.BreakOutterExample.executor": "Run",
-    "Application.CalculatorExample.executor": "Run",
-    "Application.Car.executor": "Run",
-    "Application.CarExample.executor": "Run",
-    "Application.CharAtExample.executor": "Run",
-    "Application.ChildExample.executor": "Run",
-    "Application.ComputerExample.executor": "Run",
-    "Application.DriverExample.executor": "Run",
-    "Application.EarthExample.executor": "Run",
-    "Application.EmptyStringExample.executor": "Run",
-    "Application.EqualsExample.executor": "Run",
-    "Application.FloatDoubleExample.executor": "Run",
-    "Application.IfDiceExample.executor": "Run",
-    "Application.IndexOfContainsExample.executor": "Run",
-    "Application.InfinityAndNanCheckExample.executor": "Run",
-    "Application.InstanceofExample.executor": "Run",
-    "Application.IntegerLiteralExample.executor": "Run",
-    "Application.KoreanExample.executor": "Run",
-    "Application.LongExample.executor": "Run",
-    "Application.PhoneExample.executor": "Run",
-    "Application.SealedExample.executor": "Run",
-    "Application.SingletonExample.executor": "Run",
-    "Application.SmartPhoneExample.executor": "Run",
-    "Application.SubStringExample.executor": "Run",
-    "Application.SupersonicAirplaneExample.executor": "Run",
-    "Application.SwitchValueExample.executor": "Run",
-    "Application.TelevisionExample.executor": "Run",
-    "Application.TextBlockExample.executor": "Run",
-    "Application.WeekExample.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "Settings.JavaScript",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AbstractMethodExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayCopyExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayCreateByValueListExample2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BankApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BitLogicExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BreakOutterExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculatorExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Car.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CharAtExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ChildExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComputerExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DriverExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EarthExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmptyStringExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EqualsExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FloatDoubleExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfDiceExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IndexOfContainsExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InfinityAndNanCheckExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InstanceofExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntegerLiteralExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KoreanExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PhoneExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SealedExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingletonExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SmartPhoneExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubStringExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SupersonicAirplaneExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwitchValueExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TelevisionExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TextBlockExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WeekExample.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Settings.JavaScript&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -116,7 +130,8 @@
       <workItem from="1709280355548" duration="9418000" />
       <workItem from="1709531584097" duration="982000" />
       <workItem from="1710383847673" duration="1239000" />
-      <workItem from="1710480580196" duration="8014000" />
+      <workItem from="1710480580196" duration="8294000" />
+      <workItem from="1710489965275" duration="329000" />
     </task>
     <task id="LOCAL-00001" summary="chapter2">
       <option name="closed" value="true" />
@@ -174,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709291890213</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="chapter7">
+      <option name="closed" value="true" />
+      <created>1710489679168</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710489679168</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,7 +220,8 @@
     <MESSAGE value="chapter4" />
     <MESSAGE value="chapter5" />
     <MESSAGE value="chapter6" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter6" />
+    <MESSAGE value="chapter7" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter7" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
