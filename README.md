@@ -134,3 +134,36 @@
   [봉인된 클래스](https://github.com/w00lam/this-is-java/tree/master/src/ch07/sec11)
 
 </details>
+
+<details>
+<summary>
+  인터페이스
+</summary>
+
+  [인터페이스와 구현 클래스 선언](https://github.com/w00lam/this-is-java/tree/master/src/ch08/sec02)
+
+  [추상 메소드](https://github.com/w00lam/this-is-java/tree/master/src/ch08/sec04)
+
+  [디폴트 메소드](https://github.com/w00lam/this-is-java/tree/master/src/ch08/sec05)
+
+  [정적 메소드](https://github.com/w00lam/this-is-java/tree/master/src/ch08/sec06)
+
+  [private 메소드](https://github.com/w00lam/this-is-java/tree/master/src/ch08/sec07)
+
+  [다중 인터페이스 구현](https://github.com/w00lam/this-is-java/tree/master/src/ch08/sec08)
+
+  [인터페이스 상속](https://github.com/w00lam/this-is-java/tree/master/src/ch08/sec09)
+
+  [자동 타입 변환](https://github.com/w00lam/this-is-java/tree/master/src/ch08/sec10/exam01)
+
+  [강제 타입 변환](https://github.com/w00lam/this-is-java/tree/master/src/ch08/sec10/exam02)
+
+  [필드의 다형성](https://github.com/w00lam/this-is-java/tree/master/src/ch08/sec11/exam01)
+
+  [매개변수의 다형성](https://github.com/w00lam/this-is-java/tree/master/src/ch08/sec11/exam02)
+
+  [객체 타입 확인](https://github.com/w00lam/this-is-java/tree/master/src/ch08/sec12)
+
+  [봉인된 인터페이스](https://github.com/w00lam/this-is-java/tree/master/src/ch08/sec13)
+
+</details>
