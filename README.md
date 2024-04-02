@@ -167,3 +167,27 @@
   [봉인된 인터페이스](https://github.com/w00lam/this-is-java/tree/master/src/ch08/sec13)
 
 </details>
+
+<details>
+<summary>
+  중첩 선언과 익명 객체
+</summary>
+
+  [인스턴스 멤버 클래스](https://github.com/w00lam/this-is-java/tree/master/src/ch09/sec02)
+
+  [정적 멤버 클래스](https://github.com/w00lam/this-is-java/tree/master/src/ch09/sec03)
+
+  [로컬 클래스](https://github.com/w00lam/this-is-java/tree/master/src/ch09/sec04)
+
+  [바깥 클래스의 멤버 접근 제한](https://github.com/w00lam/this-is-java/tree/master/src/ch09/sec05/exam01)
+
+  [바깥 클래스의 객체 접근](https://github.com/w00lam/this-is-java/tree/master/src/ch09/sec05/exam02)
+
+  [중첩 인터페이스(1)](https://github.com/w00lam/this-is-java/tree/master/src/ch09/sec06)
+
+  [중첩 인터페이스(2)](https://github.com/w00lam/this-is-java/tree/master/src/ch09/sec07/exam03)
+
+  [익명 자식 객체](https://github.com/w00lam/this-is-java/tree/master/src/ch09/sec07/exam01)
+
+  [익명 구현 객체](https://github.com/w00lam/this-is-java/tree/master/src/ch09/sec07/exam02)
+</details>
