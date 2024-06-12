@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55646511-0aba-4681-bcb8-aa3272ebb495" name="Changes" comment="Update README.md">
+    <list default="true" id="55646511-0aba-4681-bcb8-aa3272ebb495" name="Changes" comment="chapter12">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/this-is-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/this-is-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,105 +54,105 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AExample.executor": "Run",
-    "Application.AbstractMethodExample.executor": "Run",
-    "Application.AccountExample.executor": "Run",
-    "Application.ArrayCopyExample.executor": "Run",
-    "Application.ArrayCreateByValueListExample2.executor": "Run",
-    "Application.BankApplication.executor": "Run",
-    "Application.BitLogicExample.executor": "Run",
-    "Application.BreakOutterExample.executor": "Run",
-    "Application.ButtonExample.executor": "Run",
-    "Application.CalculatorExample.executor": "Run",
-    "Application.Car.executor": "Run",
-    "Application.CarExample.executor": "Run",
-    "Application.CastingExample.executor": "Run",
-    "Application.CharAtExample.executor": "Run",
-    "Application.ChildExample.executor": "Run",
-    "Application.ComputerExample.executor": "Run",
-    "Application.DaoExample.executor": "Run",
-    "Application.DriverExample.executor": "Run",
-    "Application.EarthExample.executor": "Run",
-    "Application.EmptyStringExample.executor": "Run",
-    "Application.EqualsExample.executor": "Run",
-    "Application.ExceptionHandlingExample.executor": "Run",
-    "Application.ExceptionHandlingExample2.executor": "Run",
-    "Application.ExtendsExample.executor": "Run",
-    "Application.FloatDoubleExample.executor": "Run",
-    "Application.HashCodeExample.executor": "Run",
-    "Application.HashSetExample.executor": "Run",
-    "Application.HomeExample.executor": "Run",
-    "Application.IfDiceExample.executor": "Run",
-    "Application.IndexOfContainsExample.executor": "Run",
-    "Application.InfinityAndNanCheckExample.executor": "Run",
-    "Application.InstanceofExample.executor": "Run",
-    "Application.IntegerLiteralExample.executor": "Run",
-    "Application.KoreanExample.executor": "Run",
-    "Application.LongExample.executor": "Run",
-    "Application.MemberExample.executor": "Run",
-    "Application.MultiInterfaceImplExample.executor": "Run",
-    "Application.PhoneExample.executor": "Run",
-    "Application.RemoteControlExample.executor": "Run",
-    "Application.SealedExample.executor": "Run",
-    "Application.ServiceExample.executor": "Run",
-    "Application.SingletonExample.executor": "Run",
-    "Application.SmartPhoneExample.executor": "Run",
-    "Application.SubStringExample.executor": "Run",
-    "Application.SupersonicAirplaneExample.executor": "Run",
-    "Application.SwitchValueExample.executor": "Run",
-    "Application.TelevisionExample.executor": "Run",
-    "Application.TextBlockExample.executor": "Run",
-    "Application.ToStringExample.executor": "Run",
-    "Application.TryWithResourceExample.executor": "Run",
-    "Application.WeekExample.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "openjdk-21",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
-    "vue.rearranger.settings.migration": "true",
-    "애플리케이션.BoxingUnBoxingExample.executor": "Run",
-    "애플리케이션.BytesToStringExample.executor": "Run",
-    "애플리케이션.CalendarExample.executor": "Run",
-    "애플리케이션.CarExample.executor": "Run",
-    "애플리케이션.DateExample.executor": "Run",
-    "애플리케이션.DateTimeCompareExample.executor": "Run",
-    "애플리케이션.DateTimeOperationExample.executor": "Run",
-    "애플리케이션.DecimalFormatExample.executor": "Run",
-    "애플리케이션.ErrExample.executor": "Run",
-    "애플리케이션.ExitExample.executor": "Run",
-    "애플리케이션.GetPropertyExample.executor": "Run",
-    "애플리케이션.GetResourceExample.executor": "Run",
-    "애플리케이션.InExample.executor": "Run",
-    "애플리케이션.LosAngelesExample.executor": "Run",
-    "애플리케이션.MeasureRunTimeExample.executor": "Run",
-    "애플리케이션.MemberExample.executor": "Run",
-    "애플리케이션.PatternExample.executor": "Run",
-    "애플리케이션.PrintAnnotationExample.executor": "Run",
-    "애플리케이션.PrintTimeZone.executor": "Run",
-    "애플리케이션.RandomExample.executor": "Run",
-    "애플리케이션.ReflectionExample.executor": "Run",
-    "애플리케이션.SimpleDateFormatExample.executor": "Run",
-    "애플리케이션.StringBuilderExample.executor": "Run",
-    "애플리케이션.StringTokenizerExample.executor": "Run",
-    "애플리케이션.ValueCompareExample.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AbstractMethodExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AccountExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayCopyExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayCreateByValueListExample2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BankApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BitLogicExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BreakOutterExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ButtonExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculatorExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Car.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CastingExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CharAtExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ChildExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComputerExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DaoExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DriverExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EarthExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmptyStringExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EqualsExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExceptionHandlingExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExceptionHandlingExample2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExtendsExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FloatDoubleExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashCodeExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashSetExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfDiceExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IndexOfContainsExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InfinityAndNanCheckExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InstanceofExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntegerLiteralExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KoreanExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MemberExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiInterfaceImplExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PhoneExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoteControlExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SealedExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ServiceExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingletonExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SmartPhoneExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubStringExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SupersonicAirplaneExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwitchValueExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TelevisionExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TextBlockExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ToStringExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryWithResourceExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WeekExample.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.annotationProcessors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;애플리케이션.BoxingUnBoxingExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.BytesToStringExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.CalendarExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.CarExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.DateExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.DateTimeCompareExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.DateTimeOperationExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.DecimalFormatExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ErrExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ExitExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.GetPropertyExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.GetResourceExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.InExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.LosAngelesExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.MeasureRunTimeExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.MemberExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.PatternExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.PrintAnnotationExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.PrintTimeZone.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.RandomExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ReflectionExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.SimpleDateFormatExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.StringBuilderExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.StringTokenizerExample.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ValueCompareExample.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="ch12.sec03.exam05" />
@@ -199,6 +199,7 @@
       <workItem from="1712295339941" duration="143000" />
       <workItem from="1712295496468" duration="6674000" />
       <workItem from="1712541144698" duration="9947000" />
+      <workItem from="1718173175011" duration="856000" />
     </task>
     <task id="LOCAL-00001" summary="chapter2">
       <option name="closed" value="true" />
@@ -320,7 +321,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712039944932</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="chapter12">
+      <option name="closed" value="true" />
+      <created>1718173291593</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1718173291593</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -348,7 +357,8 @@
     <MESSAGE value="chapter9" />
     <MESSAGE value="chapter11" />
     <MESSAGE value="Update README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
+    <MESSAGE value="chapter12" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter12" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

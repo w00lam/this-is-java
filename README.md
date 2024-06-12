@@ -215,3 +215,42 @@
   [사용자 정의 예외](https://github.com/w00lam/this-is-java/tree/master/src/ch11/sec06)
 
 </details>
+
+<details>
+<summary>
+  java.base 모듈
+</summary>
+
+  [객체 동등 비교](https://github.com/w00lam/this-is-java/tree/master/src/ch12/sec03/exam01)
+
+  [객체 해시코드](https://github.com/w00lam/this-is-java/tree/master/src/ch12/sec03/exam02)
+
+  [객체 문자 정보](https://github.com/w00lam/this-is-java/tree/master/src/ch12/sec03/exam03)
+
+  [레코드 선언](https://github.com/w00lam/this-is-java/tree/master/src/ch12/sec03/exam04)
+
+  [롬복 사용하기](https://github.com/w00lam/this-is-java/blob/master/src/ch12/sec03/exam05/Member.java)
+
+  [System 클래스](https://github.com/w00lam/this-is-java/tree/master/src/ch12/sec04)
+
+  [문자열 클래스](https://github.com/w00lam/this-is-java/tree/master/src/ch12/sec05)
+
+  [포장 클래스](https://github.com/w00lam/this-is-java/tree/master/src/ch12/sec06)
+
+  [수학 클래스](https://github.com/w00lam/this-is-java/tree/master/src/ch12/sec07)
+
+  [날짜와 시간 클래스](https://github.com/w00lam/this-is-java/tree/master/src/ch12/sec08)
+
+  [형식 클래스](https://github.com/w00lam/this-is-java/tree/master/src/ch12/sec09)
+
+  [정규 표현식 클래스](https://github.com/w00lam/this-is-java/blob/master/src/ch12/sec10/PatternExample.java)
+
+  [패키지와 타입 정보 얻기](https://github.com/w00lam/this-is-java/tree/master/src/ch12/sec11/exam01)
+
+  [멤버 정보 얻기](https://github.com/w00lam/this-is-java/tree/master/src/ch12/sec11/exam02)
+
+  [리소스 경로 얻기](https://github.com/w00lam/this-is-java/blob/master/src/ch12/sec11/exam03/GetResourceExample.java)
+
+  [어노테이션](https://github.com/w00lam/this-is-java/tree/master/src/ch12/sec12)
+
+</details>
