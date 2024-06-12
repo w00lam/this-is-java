@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55646511-0aba-4681-bcb8-aa3272ebb495" name="Changes" comment="chapter11">
+    <list default="true" id="55646511-0aba-4681-bcb8-aa3272ebb495" name="Changes" comment="Update README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/this-is-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/this-is-java.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +18,7 @@
       <list>
         <option value="package-info" />
         <option value="Interface" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -80,6 +81,8 @@
     "Application.ExceptionHandlingExample2.executor": "Run",
     "Application.ExtendsExample.executor": "Run",
     "Application.FloatDoubleExample.executor": "Run",
+    "Application.HashCodeExample.executor": "Run",
+    "Application.HashSetExample.executor": "Run",
     "Application.HomeExample.executor": "Run",
     "Application.IfDiceExample.executor": "Run",
     "Application.IndexOfContainsExample.executor": "Run",
@@ -88,6 +91,7 @@
     "Application.IntegerLiteralExample.executor": "Run",
     "Application.KoreanExample.executor": "Run",
     "Application.LongExample.executor": "Run",
+    "Application.MemberExample.executor": "Run",
     "Application.MultiInterfaceImplExample.executor": "Run",
     "Application.PhoneExample.executor": "Run",
     "Application.RemoteControlExample.executor": "Run",
@@ -100,8 +104,13 @@
     "Application.SwitchValueExample.executor": "Run",
     "Application.TelevisionExample.executor": "Run",
     "Application.TextBlockExample.executor": "Run",
+    "Application.ToStringExample.executor": "Run",
     "Application.TryWithResourceExample.executor": "Run",
     "Application.WeekExample.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -115,10 +124,40 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "Settings.JavaScript",
-    "vue.rearranger.settings.migration": "true"
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.BoxingUnBoxingExample.executor": "Run",
+    "애플리케이션.BytesToStringExample.executor": "Run",
+    "애플리케이션.CalendarExample.executor": "Run",
+    "애플리케이션.CarExample.executor": "Run",
+    "애플리케이션.DateExample.executor": "Run",
+    "애플리케이션.DateTimeCompareExample.executor": "Run",
+    "애플리케이션.DateTimeOperationExample.executor": "Run",
+    "애플리케이션.DecimalFormatExample.executor": "Run",
+    "애플리케이션.ErrExample.executor": "Run",
+    "애플리케이션.ExitExample.executor": "Run",
+    "애플리케이션.GetPropertyExample.executor": "Run",
+    "애플리케이션.GetResourceExample.executor": "Run",
+    "애플리케이션.InExample.executor": "Run",
+    "애플리케이션.LosAngelesExample.executor": "Run",
+    "애플리케이션.MeasureRunTimeExample.executor": "Run",
+    "애플리케이션.MemberExample.executor": "Run",
+    "애플리케이션.PatternExample.executor": "Run",
+    "애플리케이션.PrintAnnotationExample.executor": "Run",
+    "애플리케이션.PrintTimeZone.executor": "Run",
+    "애플리케이션.RandomExample.executor": "Run",
+    "애플리케이션.ReflectionExample.executor": "Run",
+    "애플리케이션.SimpleDateFormatExample.executor": "Run",
+    "애플리케이션.StringBuilderExample.executor": "Run",
+    "애플리케이션.StringTokenizerExample.executor": "Run",
+    "애플리케이션.ValueCompareExample.executor": "Run"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ch12.sec03.exam05" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -154,7 +193,12 @@
       <workItem from="1712021746289" duration="3536000" />
       <workItem from="1712027364488" duration="2000" />
       <workItem from="1712031402270" duration="607000" />
-      <workItem from="1712033947242" duration="5831000" />
+      <workItem from="1712033947242" duration="5980000" />
+      <workItem from="1712290589616" duration="3416000" />
+      <workItem from="1712294067313" duration="1207000" />
+      <workItem from="1712295339941" duration="143000" />
+      <workItem from="1712295496468" duration="6674000" />
+      <workItem from="1712541144698" duration="9947000" />
     </task>
     <task id="LOCAL-00001" summary="chapter2">
       <option name="closed" value="true" />
@@ -268,7 +312,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712039516597</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Update README.md">
+      <option name="closed" value="true" />
+      <created>1712039944932</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1712039944932</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -294,9 +346,9 @@
     <MESSAGE value="chapter7" />
     <MESSAGE value="chapter8" />
     <MESSAGE value="chapter9" />
-    <MESSAGE value="Update README.md" />
     <MESSAGE value="chapter11" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter11" />
+    <MESSAGE value="Update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
