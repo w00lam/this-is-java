@@ -39,4 +39,14 @@
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[이스케이프 문자 사용](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec06/StringExample.java)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[텍스트 블록 문법](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec06/TextBlockExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.7 자동 타입 변환
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[자동 변환](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec07/PromotionExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.8 강제 타입 변환
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[강제 변환](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec08/CastingExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.9 연산식에서 자동 타입 변환
 </details>
