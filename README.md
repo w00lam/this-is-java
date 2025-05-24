@@ -7,7 +7,7 @@
 
 <details>
   <summary>
-    2장 변수와 타입
+    Chapter02 변수와 타입
   </summary>
 
   ___
@@ -68,4 +68,12 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.13 키보드 입력 데이터를 변수에 저장
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Scanner](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec13/ScannerExample.java)
+  ___
+</details>
+<details>
+  <summary>
+    Chapter03 연산자
+  </summary>
+  
+  ___
 </details>
