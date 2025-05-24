@@ -26,4 +26,17 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3 문자 타입
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Char 타입](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec03/CharExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4 실수 타입
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Float 타입 & Double 타입](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec04/FloatDoubleExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.5 논리 타입
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Boolean 타입](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec05/BooleanExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.6 문자열 타입
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[이스케이프 문자 사용](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec06/StringExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[텍스트 블록 문법](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec06/TextBlockExample.java)
 </details>
