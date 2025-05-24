@@ -49,4 +49,23 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[강제 변환](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec08/CastingExample.java)
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.9 연산식에서 자동 타입 변환
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[자동 타입 변환](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec09/OperationPromotionExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[결합 연산](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec09/StringConcatExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.10 문자열을 기본 타입으로 변환
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[타입 변환](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec10/PrimitiveAndStringConversionExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.11 변수 사용 범위
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[사용 범위 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec11/VariableScopeExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.12 콘솔로 변수값 출력
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[형식 문자열](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec12/PrintExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.13 키보드 입력 데이터를 변수에 저장
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Scanner](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec13/ScannerExample.java)
 </details>
