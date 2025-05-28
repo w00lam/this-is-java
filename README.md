@@ -70,6 +70,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Scanner](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec13/ScannerExample.java)
   ___
 </details>
+
 <details>
   <summary>
     Chapter03 연산자
@@ -122,4 +123,64 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.11 삼항(조건) 연산자
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[삼항 연산](https://github.com/w00lam/this-is-java/blob/master/src/ch03/sec11/ConditionalOperationExample.java)
+  ___
+</details>
+
+<details>
+  <summary>
+    Chapter04 조건문과 반복문
+  </summary>
+  
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.2 if 문
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[if 문](https://github.com/w00lam/this-is-java/blob/master/src/ch04/sec02/IfExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[if-else 문](https://github.com/w00lam/this-is-java/blob/master/src/ch04/sec02/IfElseExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[else-if 문](https://github.com/w00lam/this-is-java/blob/master/src/ch04/sec02/IfElseIfElseExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[주사위](https://github.com/w00lam/this-is-java/blob/master/src/ch04/sec02/IfDiceExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[if 중첩문](https://github.com/w00lam/this-is-java/blob/master/src/ch04/sec02/IfNestedExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.3 switch 문 
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[주사위](https://github.com/w00lam/this-is-java/blob/master/src/ch04/sec03/SwitchExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[switch 문(no break)](https://github.com/w00lam/this-is-java/blob/master/src/ch04/sec03/SwitchNoBreakCaseExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[switch 문(char 타입 변수)](https://github.com/w00lam/this-is-java/blob/master/src/ch04/sec03/SwitchCharExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[switch 문(표현식)](https://github.com/w00lam/this-is-java/blob/master/src/ch04/sec03/SwitchExpressionsExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[switch 문(yield)](https://github.com/w00lam/this-is-java/blob/master/src/ch04/sec03/SwitchValueExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.4 for 문
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1~10까지 출력](https://github.com/w00lam/this-is-java/blob/master/src/ch04/sec04/PrintFrom1To10Example.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1~100까지 합](https://github.com/w00lam/this-is-java/blob/master/src/ch04/sec04/SumFrom1To100Example.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[초기화식에서 부동 소수점 사용](https://github.com/w00lam/this-is-java/blob/master/src/ch04/sec04/FloatCounterExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[구구단](https://github.com/w00lam/this-is-java/blob/master/src/ch04/sec04/MultiplicationTableExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.5 while 문
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1~10까지 출력](https://github.com/w00lam/this-is-java/blob/master/src/ch04/sec05/PrintFrom1To10Example.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1~100까지 합](https://github.com/w00lam/this-is-java/blob/master/src/ch04/sec05/SumFrom1To100Example.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[while(true)](https://github.com/w00lam/this-is-java/blob/master/src/ch04/sec05/KeyControlExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.6 do-while 문
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[do-while 문 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch04/sec06/DoWhileExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.7 break 문
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[주사위](https://github.com/w00lam/this-is-java/blob/master/src/ch04/sec07/BreakExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[라벨(Outter)](https://github.com/w00lam/this-is-java/blob/master/src/ch04/sec07/BreakOutterExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.8 continue 문
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[continue 문 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch04/sec08/ContinueExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;확인문제
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q2](https://github.com/w00lam/this-is-java/blob/master/src/ch04/quiz/Q2.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q3](https://github.com/w00lam/this-is-java/blob/master/src/ch04/quiz/Q3.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q4](https://github.com/w00lam/this-is-java/blob/master/src/ch04/quiz/Q4.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q5](https://github.com/w00lam/this-is-java/blob/master/src/ch04/quiz/Q5.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q6](https://github.com/w00lam/this-is-java/blob/master/src/ch04/quiz/Q6.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q7](https://github.com/w00lam/this-is-java/blob/master/src/ch04/quiz/Q7.java)
+  ___
 </details>
