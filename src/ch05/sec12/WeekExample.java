@@ -14,30 +14,16 @@ public class WeekExample {
         int week = cal.get(Calendar.DAY_OF_WEEK);
 
         //숫자를 열거 상수로 변환해서 변수에 대입
-        switch (week) {
-            case 1:
-                today = Week.SUNDAY;
-                break;
-            case 2:
-                today = Week.MONDAY;
-                break;
-            case 3:
-                today = Week.TUESDAY;
-                break;
-            case 4:
-                today = Week.WEDNESDAY;
-                break;
-            case 5:
-                today = Week.THURSDAY;
-                break;
-            case 6:
-                today = Week.FRIDAY;
-                break;
-            case 7:
-                today = Week.SATURDAY;
-                break;
-
-        }
+        today = switch (week) {
+            case 1 -> Week.SUNDAY;
+            case 2 -> Week.MONDAY;
+            case 3 -> Week.TUESDAY;
+            case 4 -> Week.WEDNESDAY;
+            case 5 -> Week.THURSDAY;
+            case 6 -> Week.FRIDAY;
+            case 7 -> Week.SATURDAY;
+            default -> today;
+        };
 
         //열거 타입 변수를 사용
         if (today == Week.SUNDAY) {
