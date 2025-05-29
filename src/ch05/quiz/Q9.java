@@ -1,5 +1,6 @@
 package ch05.quiz;
 
+import java.util.Objects;
 import java.util.Scanner;
 
 public class Q9 {
@@ -32,7 +33,7 @@ public class Q9 {
             } else if (selectNo == 4) {
                 int max = 0;
                 int sum = 0;
-                for (int score : scores) {
+                for (int score : Objects.requireNonNull(scores)) {
                     sum += score;
                     if (score > max) {
                         max = score;
