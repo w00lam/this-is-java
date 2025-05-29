@@ -184,3 +184,70 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q7](https://github.com/w00lam/this-is-java/blob/master/src/ch04/quiz/Q7.java)
   ___
 </details>
+<details>
+  <summary>
+    Chapter 05 참조 타입
+  </summary>
+
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.3 참조 타입 변수의 ==,!=연산
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[==,!=연산](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec03/ReferenceVariableCompareExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.4 Null과 NullPointerException
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[NullPointerException](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec04/NullPointerExceptionExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[쓰레기 객체](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec04/GarbageObjectExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.5 문자열(String) 타입
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[문자열 비교](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec05/EqualsExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[빈 문자열 비교](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec05/EmptyStringExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[문자 추출](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec05/CharAtExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[문자열 길이](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec05/LengthExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[문자열 대체](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec05/ReplaceExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[문자열 잘라내기](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec05/SubStringExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[문자열 찾기](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec05/IndexOfContainsExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[문자열 분리](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec05/SplitExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.6 배열(Array) 타입
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[값 목록으로 배열 생성(1)](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec06/ArrayCreateByValueListExample1.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[값 목록으로 배열 생성(2)](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec06/ArrayCreateByValueListExample2.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[new 연산자로 배열 생성](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec06/ArrayCreateByNewExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[배열 길이](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec06/ArrayLengthExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.7 다차원 배열
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[값 목록으로 다차원 배열 생성](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec07/MultidimensionalArrayByValueListExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[new 연산자로 다차원 배열 생성](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec07/MultidimensionalArrayByNewExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.8 객체를 참조하는 배열
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[객체 참조 배열](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec08/ArrayReferenceObjectExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.9 배열 복사
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[for 문을 이용해 복사](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec09/ArrayCopyByForExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[System.arraycopy() 메소드](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec09/ArrayCopyExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.10 배열 항목 반복을 위한 향상된 for 문
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[향상된 for 문](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec10/AdvancedForExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.11 main() 메소드의 String[] 매개변수 용도
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[입력값 주기](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec11/MainStringArrayArgument.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.12 열거(Enum) 타입
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[열거 상수(요일)](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec12/Week.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[오늘의 요일 얻기](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec12/WeekExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;확인문제
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q7](https://github.com/w00lam/this-is-java/blob/master/src/ch05/quiz/Q7.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q8](https://github.com/w00lam/this-is-java/blob/master/src/ch05/quiz/Q8.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q9](https://github.com/w00lam/this-is-java/blob/master/src/ch05/quiz/Q9.java)
+  ___
+</details>
