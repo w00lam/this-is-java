@@ -241,7 +241,6 @@
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.12 열거(Enum) 타입
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[열거 상수(요일)](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec12/Week.java)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[오늘의 요일 얻기](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec12/WeekExample.java)
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;확인문제
