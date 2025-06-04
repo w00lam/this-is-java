@@ -379,6 +379,6 @@
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.11 봉인된 클래스
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[sealed ... permits](https://github.com/w00lam/this-is-java/tree/master/src/ch07/sec11)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[sealed ... permits ...](https://github.com/w00lam/this-is-java/tree/master/src/ch07/sec11)
   ___
 </details>
