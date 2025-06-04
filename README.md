@@ -328,3 +328,56 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q20](https://github.com/w00lam/this-is-java/tree/master/src/ch06/quiz/Q20)
   ___
 </details>
+<details>
+  <summary>
+    Chapter07 상속
+  </summary>
+
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.2 클래스 상속
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[상속(extends)](https://github.com/w00lam/this-is-java/tree/master/src/ch07/sec02)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.3 부모 생성자 호출
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[부모 클래스(기본 생성자)](https://github.com/w00lam/this-is-java/tree/master/src/ch07/sec03/exam01)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[부모 클래스(매개변수 생성자)](https://github.com/w00lam/this-is-java/tree/master/src/ch07/sec03/exam02)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.4 메소드 재정의
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[메소드 오버라이딩](https://github.com/w00lam/this-is-java/tree/master/src/ch07/sec04/exam01)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[부모 메소드 호출](https://github.com/w00lam/this-is-java/tree/master/src/ch07/sec04/exam02)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.5 final 클래스와 final 메소드
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[final 클래스](https://github.com/w00lam/this-is-java/tree/master/src/ch07/sec05/exam01)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[final 메소드](https://github.com/w00lam/this-is-java/tree/master/src/ch07/sec05/exam02)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.6 protected 접근 제한자
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[protected](https://github.com/w00lam/this-is-java/tree/master/src/ch07/sec06)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.7 타입 변환
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[자동 타입 변환](https://github.com/w00lam/this-is-java/blob/master/src/ch07/sec07/exam01/PromotionExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[자동 타입 변환(오버라이딩)](https://github.com/w00lam/this-is-java/tree/master/src/ch07/sec07/exam02)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[강제 타입 변환](https://github.com/w00lam/this-is-java/tree/master/src/ch07/sec07/exam03)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.8 다형성
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[필드 다형성](https://github.com/w00lam/this-is-java/tree/master/src/ch07/sec08/exam01)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[매개변수 다형성](https://github.com/w00lam/this-is-java/tree/master/src/ch07/sec08/exam02)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.9 객체 타입 확인
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[instanceof 연산자](https://github.com/w00lam/this-is-java/tree/master/src/ch07/sec09)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.10 추상 클래스
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[추상 클래스 선언](https://github.com/w00lam/this-is-java/tree/master/src/ch07/sec10/exam01)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[추상 메소드와 재정의](https://github.com/w00lam/this-is-java/tree/master/src/ch07/sec10/exam02)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.11 봉인된 클래스
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[sealed ... permits](https://github.com/w00lam/this-is-java/tree/master/src/ch07/sec11)
+</details>
