@@ -25,15 +25,15 @@
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3 문자 타입
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Char 타입](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec03/CharExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[문자 타입 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec03/CharExample.java)
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4 실수 타입
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Float 타입 & Double 타입](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec04/FloatDoubleExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[실수 타입 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec04/FloatDoubleExample.java)
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.5 논리 타입
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Boolean 타입](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec05/BooleanExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[논리 타입 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec05/BooleanExample.java)
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.6 문자열 타입
   
@@ -42,11 +42,11 @@
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.7 자동 타입 변환
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[자동 변환](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec07/PromotionExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[자동 타입 변환 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec07/PromotionExample.java)
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.8 강제 타입 변환
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[강제 변환](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec08/CastingExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[강제 타입 변환 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec08/CastingExample.java)
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.9 연산식에서 자동 타입 변환
   
@@ -55,15 +55,15 @@
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.10 문자열을 기본 타입으로 변환
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[타입 변환](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec10/PrimitiveAndStringConversionExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[문자열을 기본 타입으로 변환 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec10/PrimitiveAndStringConversionExample.java)
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.11 변수 사용 범위
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[사용 범위 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec11/VariableScopeExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[변수 사용 범위 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec11/VariableScopeExample.java)
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.12 콘솔로 변수값 출력
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[형식 문자열](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec12/PrintExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[콘솔로 변수값 출력 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch02/sec12/PrintExample.java)
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.13 키보드 입력 데이터를 변수에 저장
   
@@ -84,7 +84,7 @@
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2 산술 연산자
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[산술 연산](https://github.com/w00lam/this-is-java/blob/master/src/ch03/sec02/ArithmeticOperatorExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[산술 연산자 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch03/sec02/ArithmeticOperatorExample.java)
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.3 오버플로우와 언더플로우
 
@@ -97,19 +97,19 @@
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.5 나눗셈 연산 후 NaN과 Infinity 처리
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[isInfinite/isNaN](https://github.com/w00lam/this-is-java/blob/master/src/ch03/sec05/InfinityAndNaNCheckExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[isInfinite과 isNaN](https://github.com/w00lam/this-is-java/blob/master/src/ch03/sec05/InfinityAndNaNCheckExample.java)
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.6 비교 연산자
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[비교 연산](https://github.com/w00lam/this-is-java/blob/master/src/ch03/sec06/CompareOperatorExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[비교 연산자 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch03/sec06/CompareOperatorExample.java)
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.7 논리 연산자
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[논리 연산](https://github.com/w00lam/this-is-java/blob/master/src/ch03/sec07/LogicalOperatorExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[논리 연산자 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch03/sec07/LogicalOperatorExample.java)
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.8 비트 논리 연산자
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[비트 연산](https://github.com/w00lam/this-is-java/blob/master/src/ch03/sec08/BitLogicalExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[비트 논리 연산자 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch03/sec08/BitLogicalExample.java)
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.9 비트 이동 연산자
 
@@ -118,11 +118,11 @@
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.10 대입 연산자
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[대입 연산](https://github.com/w00lam/this-is-java/blob/master/src/ch03/sec10/AssignmentOperatorExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[대입 연산자 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch03/sec10/AssignmentOperatorExample.java)
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.11 삼항(조건) 연산자
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[삼항 연산](https://github.com/w00lam/this-is-java/blob/master/src/ch03/sec11/ConditionalOperationExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[삼항(조건) 연산자 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch03/sec11/ConditionalOperationExample.java)
   ___
 </details>
 
@@ -192,7 +192,7 @@
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.3 참조 타입 변수의 ==,!=연산
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[==,!=연산](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec03/ReferenceVariableCompareExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[==,!=연산 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec03/ReferenceVariableCompareExample.java)
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.4 Null과 NullPointerException
 
@@ -224,7 +224,7 @@
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.8 객체를 참조하는 배열
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[객체 참조 배열](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec08/ArrayReferenceObjectExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[객체를 참조하는 배열 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec08/ArrayReferenceObjectExample.java)
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.9 배열 복사
 
@@ -233,15 +233,15 @@
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.10 배열 항목 반복을 위한 향상된 for 문
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[향상된 for 문](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec10/AdvancedForExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[향상된 for 문 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec10/AdvancedForExample.java)
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.11 main() 메소드의 String[] 매개변수 용도
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[입력값 주기](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec11/MainStringArrayArgument.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[main() 메소드의 String[] 매개변수 용도 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch05/sec11/MainStringArrayArgument.java)
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.12 열거(Enum) 타입
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[오늘의 요일 얻기](https://github.com/w00lam/this-is-java/tree/master/src/ch05/sec12)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[열거(Enum) 타입 예제](https://github.com/w00lam/this-is-java/tree/master/src/ch05/sec12)
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;확인문제
 
@@ -312,7 +312,7 @@
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.14 Getter와 Setter
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Getter/Setter](https://github.com/w00lam/this-is-java/tree/master/src/ch06/sec14)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Getter와 Setter 예제](https://github.com/w00lam/this-is-java/tree/master/src/ch06/sec14)
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.15 싱글톤 패턴
 
@@ -355,7 +355,7 @@
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.6 protected 접근 제한자
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[protected](https://github.com/w00lam/this-is-java/tree/master/src/ch07/sec06)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[protected 예제](https://github.com/w00lam/this-is-java/tree/master/src/ch07/sec06)
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.7 타입 변환
 
@@ -370,7 +370,7 @@
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.9 객체 타입 확인
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[instanceof 연산자](https://github.com/w00lam/this-is-java/tree/master/src/ch07/sec09)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[객체 타입 확인 예제](https://github.com/w00lam/this-is-java/tree/master/src/ch07/sec09)
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.10 추상 클래스
 
@@ -379,6 +379,141 @@
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.11 봉인된 클래스
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[sealed ... permits ...](https://github.com/w00lam/this-is-java/tree/master/src/ch07/sec11)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[봉인된 클래스 예제](https://github.com/w00lam/this-is-java/tree/master/src/ch07/sec11)
   ___
 </details>
+<details>
+  <summary>
+    Chapter08 인터페이스
+  </summary>
+
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.2 인터페이스와 구현 클래스 선언
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[인터페이스 예제](https://github.com/w00lam/this-is-java/tree/master/src/ch08/sec02)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.3 상수 필드
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[상수 필드 예제](https://github.com/w00lam/this-is-java/tree/master/src/ch08/sec03)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.4 추상 메소드
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[추상 메소드 예제](https://github.com/w00lam/this-is-java/tree/master/src/ch08/sec04)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.5 디폴트 메소드
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[디폴트 메소드 예제](https://github.com/w00lam/this-is-java/tree/master/src/ch08/sec05)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.6 정적 메소드
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[정적 메소드 예제](https://github.com/w00lam/this-is-java/tree/master/src/ch08/sec06)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.7 private 메소드
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[private 메소드 예제](https://github.com/w00lam/this-is-java/tree/master/src/ch08/sec07)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.8 다중 인터페이스 구현
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[다중 인터페이스 구현 예제](https://github.com/w00lam/this-is-java/tree/master/src/ch08/sec08)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.9 인터페이스 상속
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[인터페이스 상속 예제](https://github.com/w00lam/this-is-java/tree/master/src/ch08/sec09)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.10 타입 변환
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[자동 타입 변환](https://github.com/w00lam/this-is-java/tree/master/src/ch08/sec10/exam01)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[강제 타입 변환](https://github.com/w00lam/this-is-java/tree/master/src/ch08/sec10/exam02)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.11 다형성
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[필드의 다형성](https://github.com/w00lam/this-is-java/tree/master/src/ch08/sec11/exam01)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[매개변수의 다형성](https://github.com/w00lam/this-is-java/tree/master/src/ch08/sec11/exam02)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.12 객체 타입 확인
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[객체 타입 확인 예제](https://github.com/w00lam/this-is-java/tree/master/src/ch08/sec12)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.13 봉인된 인터페이스
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[봉인된 인터페이스 예제](https://github.com/w00lam/this-is-java/tree/master/src/ch08/sec13)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;확인문제
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q6](https://github.com/w00lam/this-is-java/tree/master/src/ch08/quiz/Q6)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q7](https://github.com/w00lam/this-is-java/tree/master/src/ch08/quiz/Q7)
+  ___
+</details>
+<details>
+  <summary>
+    Chapter09 중첩 선언과 익명 객체
+  </summary>
+
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.2 인스턴스 멤버 클래스
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[인스턴스 멤버 클래스 선언과 호출](https://github.com/w00lam/this-is-java/tree/master/src/ch09/sec02/exam01)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[인스턴스 클래스 내부](https://github.com/w00lam/this-is-java/tree/master/src/ch09/sec02/exam02)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.3 정적 멤버 클래스
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[정적 멤버 클래스 선언과 호출](https://github.com/w00lam/this-is-java/tree/master/src/ch09/sec03/exam01)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[정적 멤버 클래스 내부](https://github.com/w00lam/this-is-java/tree/master/src/ch09/sec03/exam02)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.4 로컬 클래스
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[로컬 클래스 선언과 객체 생성](https://github.com/w00lam/this-is-java/tree/master/src/ch09/sec04/exam01)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[로컬 클래스 내부](https://github.com/w00lam/this-is-java/tree/master/src/ch09/sec04/exam02)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[로컬 클래스에서 로컬변수의 사용](https://github.com/w00lam/this-is-java/tree/master/src/ch09/sec04/exam03)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.5 바깥 멤버 접근
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[바깥 클래스의 멤버 접근 제한](https://github.com/w00lam/this-is-java/tree/master/src/ch09/sec05/exam01)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[바깥 클래스의 객체 접근](https://github.com/w00lam/this-is-java/tree/master/src/ch09/sec05/exam02)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.6 중첩 인터페이스
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[중첩 인터페이스 선언](https://github.com/w00lam/this-is-java/tree/master/src/ch09/sec06/exam01)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[필드와 Setter 추가](https://github.com/w00lam/this-is-java/tree/master/src/ch09/sec06/exam02)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[메소드 선언과 호출](https://github.com/w00lam/this-is-java/tree/master/src/ch09/sec06/exam03)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.7 익명 객체
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[익명 자식 객체](https://github.com/w00lam/this-is-java/tree/master/src/ch09/sec07/exam01)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[익명 구현 객체](https://github.com/w00lam/this-is-java/tree/master/src/ch09/sec07/exam02)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[9.6 예제 수정](https://github.com/w00lam/this-is-java/tree/master/src/ch09/sec07/exam03)
+  ___
+</details>
+<detalils>
+  <summary>
+    Chapter10 라이브러리와 모듈
+  </summary>
+
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10.1 라이브러리
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[my_lib 라이브러리 생성](https://github.com/w00lam/my-lib/tree/master/src)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[my_application_1 생성](https://github.com/w00lam/my-application-1)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10.3 응용프로그램 모듈화
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[my_module_a 생성](https://github.com/w00lam/my-application-2/tree/master/my-module-a/src)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[my_module_b 생성](https://github.com/w00lam/my-application-2/tree/master/my-module-b/src)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[my_application_2 생성](https://github.com/w00lam/my-application-2/tree/master/src)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10.4 모듈 배포용 JAR 파일
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[my_application_3 생성](https://github.com/w00lam/my-application-3)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10.5 패키지 은닉
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[패키지 은닉 예제](https://github.com/w00lam/my-application-2/tree/10.5)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10.6 전이 의존
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[전이 의존 예제](https://github.com/w00lam/my-application-2/tree/10.6)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10.7 집합 모듈
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[집합 모듈 예제](https://github.com/w00lam/my-application-2/tree/10.7)
+</detalils>
