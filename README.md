@@ -484,7 +484,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[9.6 예제 수정](https://github.com/w00lam/this-is-java/tree/master/src/ch09/sec07/exam03)
   ___
 </details>
-<detalils>
+<details>
   <summary>
     Chapter10 라이브러리와 모듈
   </summary>
@@ -516,4 +516,5 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10.7 집합 모듈
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[집합 모듈 예제](https://github.com/w00lam/my-application-2/tree/10.7)
-</detalils>
+  ___
+</details>
