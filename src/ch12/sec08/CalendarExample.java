@@ -21,10 +21,12 @@ public class CalendarExample {
         };
 
         int amPm = now.get(Calendar.AM_PM);
-        String strAmPm = switch (amPm) {
-            case Calendar.AM -> "오전";
-            default -> "오후";
-        };
+        String strAmPm = null;
+        if (amPm == Calendar.AM) {
+            strAmPm = "오전";
+        } else {
+            strAmPm = "오후";
+        }
 
         int hour = now.get(Calendar.HOUR);
         int minute = now.get(Calendar.MINUTE);
