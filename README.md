@@ -545,5 +545,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[예외 떠넘기기 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch11/sec05/ThrowsExample1.java)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[나열해야 할 예외 클래스가 많을 경우](https://github.com/w00lam/this-is-java/blob/master/src/ch11/sec05/ThrowsExample2.java)
   ___
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11.6 사용자 정의 예외
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[사용자 정의 예외 예제](https://github.com/w00lam/this-is-java/tree/master/src/ch11/sec06)
 </details>
