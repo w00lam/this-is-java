@@ -548,4 +548,72 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11.6 사용자 정의 예외
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[사용자 정의 예외 예제](https://github.com/w00lam/this-is-java/tree/master/src/ch11/sec06)
+  ___
+</details>
+<details>
+  <summary>
+    Chapter12 java.base 모듈
+  </summary>
+
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12.3 Object 클래스
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[객체 동등 비교](https://github.com/w00lam/this-is-java/tree/master/src/ch12/sec03/exam01)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[객체 해시코드](https://github.com/w00lam/this-is-java/tree/master/src/ch12/sec03/exam02)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[객체 문자 정보](https://github.com/w00lam/this-is-java/tree/master/src/ch12/sec03/exam03)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[레코드 선언](https://github.com/w00lam/this-is-java/tree/master/src/ch12/sec03/exam04)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[롬복 사용하기]()
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12.4 Ststem 클래스
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[콘솔 출력](https://github.com/w00lam/this-is-java/blob/master/src/ch12/sec04/ErrExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[키보드 출력](https://github.com/w00lam/this-is-java/blob/master/src/ch12/sec04/InExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[프로세스 종료](https://github.com/w00lam/this-is-java/blob/master/src/ch12/sec04/ExitExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[진행 시간 읽기](https://github.com/w00lam/this-is-java/blob/master/src/ch12/sec04/MeasureRunTimeExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[시스템 프로퍼티 읽기](https://github.com/w00lam/this-is-java/blob/master/src/ch12/sec04/GetPropertyExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12.5 문자열 클래스
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[String 클래스](https://github.com/w00lam/this-is-java/blob/master/src/ch12/sec05/BytesToStringExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[StringBuilder 클래스](https://github.com/w00lam/this-is-java/blob/master/src/ch12/sec05/StringBuilderExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[StringTokenizer 클래스](https://github.com/w00lam/this-is-java/blob/master/src/ch12/sec05/StringTokenizerExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12.6 포장 클래스
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[박싱과 언박싱](https://github.com/w00lam/this-is-java/blob/master/src/ch12/sec06/BoxingUnBoxingExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[포장 값 비교](https://github.com/w00lam/this-is-java/blob/master/src/ch12/sec06/ValueCompareExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12.7 수학 클래스
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Math 클래스](https://github.com/w00lam/this-is-java/blob/master/src/ch12/sec07/MathExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Random 클래스](https://github.com/w00lam/this-is-java/blob/master/src/ch12/sec07/RandomExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12.8 날짜와 시간 클래스
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Date 클래스](https://github.com/w00lam/this-is-java/blob/master/src/ch12/sec08/DateExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Calendar 클래스](https://github.com/w00lam/this-is-java/blob/master/src/ch12/sec08/CalendarExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[TimeZone 객체](https://github.com/w00lam/this-is-java/blob/master/src/ch12/sec08/LosAngelesExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[시간대 ID](https://github.com/w00lam/this-is-java/blob/master/src/ch12/sec08/PrintTimeZoneID.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[날짜와 시간 조작](https://github.com/w00lam/this-is-java/blob/master/src/ch12/sec08/DateTimeOperationExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[날짜와 시간 비교](https://github.com/w00lam/this-is-java/blob/master/src/ch12/sec08/DateTimeCompareExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12.9 형식 클래스
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[DecimalFormat](https://github.com/w00lam/this-is-java/blob/master/src/ch12/sec09/DecimalFormatExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SimpleDateFormat](https://github.com/w00lam/this-is-java/blob/master/src/ch12/sec09/SimpleDateFormatExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12.10 정규 표현식 클래스
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Pattern 클래스로 검증](https://github.com/w00lam/this-is-java/blob/master/src/ch12/sec10/PatternExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12.11 리플렉션
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[패키지와 타입 정보 얻기](https://github.com/w00lam/this-is-java/tree/master/src/ch12/sec11/exam01)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[멤버 정보 얻기](https://github.com/w00lam/this-is-java/tree/master/src/ch12/sec11/exam02)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[리소스 경로 얻기]()
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12.12 어노테이션
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[어노테이션 정의와 적용](https://github.com/w00lam/this-is-java/tree/master/src/ch12/sec12)
+  ___
 </details>
