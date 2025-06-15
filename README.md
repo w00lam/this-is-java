@@ -518,3 +518,32 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[집합 모듈 예제](https://github.com/w00lam/my-application-2/tree/10.7)
   ___
 </details>
+<details>
+  <summary>
+    Chapter11 예외 처리
+  </summary>
+
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11.2 예외 처리 코드
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[NullPointerException 발생](https://github.com/w00lam/this-is-java/blob/master/src/ch11/sec02/exam01/ExceptionHandlingExample1.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[NullPointerException 처리](https://github.com/w00lam/this-is-java/blob/master/src/ch11/sec02/exam01/ExceptionHandlingExample2.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ClassNotFoundExceptoin 처리](https://github.com/w00lam/this-is-java/blob/master/src/ch11/sec02/exam02/ExceptionHandlingExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11.3 예외 종류에 따른 처리
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ArrayIndexOutOfBoundsException & NumberFormatException 처리](https://github.com/w00lam/this-is-java/blob/master/src/ch11/sec03/exam01/ExceptionHandlingExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[하위 클래스 catch 블록 먼저 작성](https://github.com/w00lam/this-is-java/blob/master/src/ch11/sec03/exam02/ExceptionHandlingExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[예외 클래스를 기호|로 연결](https://github.com/w00lam/this-is-java/blob/master/src/ch11/sec03/exam03/ExceptionHandlingExample.java)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11.4 리소스 자동 닫기
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[try-with-resource 블록](https://github.com/w00lam/this-is-java/tree/master/src/ch11/sec04)
+  ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11.5 예외 떠넘기기
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[예외 떠넘기기 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch11/sec05/ThrowsExample1.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[나열해야 할 예외 클래스가 많을 경우](https://github.com/w00lam/this-is-java/blob/master/src/ch11/sec05/ThrowsExample2.java)
+  ___
+  
+</details>
