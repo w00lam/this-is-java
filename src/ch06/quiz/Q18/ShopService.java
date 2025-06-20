@@ -1,6 +1,4 @@
-package ch06.quiz;
-
-import ch06.sec15.Singleton;
+package ch06.quiz.Q18;
 
 public class ShopService {
     private static ShopService shopService = new ShopService();

@@ -1,6 +1,6 @@
-package ch06.quiz;
+package ch06.quiz.Q17;
 
-public class Printer2 {
+public class Printer {
     static void println(int x) {
         System.out.println(x);
     }

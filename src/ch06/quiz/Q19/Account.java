@@ -1,4 +1,4 @@
-package ch06.quiz;
+package ch06.quiz.Q19;
 
 public class Account {
     static final int MIN_BALANCE = 0;
