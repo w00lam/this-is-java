@@ -1,6 +1,6 @@
-package ch04.quiz;
+package ch04.quiz.Q6;
 
-public class Q6 {
+public class Example {
     public static void main(String[] args) {
         for (int i = 1; i <= 5; i++) {
             for (int j = 1; j <= i; j++) {

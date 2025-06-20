@@ -1,6 +1,6 @@
-package ch04.quiz;
+package ch04.quiz.Q2;
 
-public class Q2 {
+public class Example {
     public static void main(String[] args) {
         String grade = "B";
 

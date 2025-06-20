@@ -1,8 +1,8 @@
-package ch04.quiz;
+package ch04.quiz.Q7;
 
 import java.util.Scanner;
 
-public class Q7 {
+public class Example {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int balance = 0;

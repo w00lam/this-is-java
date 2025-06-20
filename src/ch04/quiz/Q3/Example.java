@@ -1,6 +1,6 @@
-package ch04.quiz;
+package ch04.quiz.Q3;
 
-public class Q3 {
+public class Example {
     public static void main(String[] args) {
         int sum = 0;
 

@@ -1,6 +1,6 @@
-package ch04.quiz;
+package ch04.quiz.Q4;
 
-public class Q4 {
+public class Example {
     public static void main(String[] args) {
         while (true) {
             int dice1 = (int) (Math.random() * 6) + 1;
