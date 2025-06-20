@@ -1,9 +1,9 @@
-package ch05.quiz;
+package ch05.quiz.Q9;
 
 import java.util.Objects;
 import java.util.Scanner;
 
-public class Q9 {
+public class Example {
     public static void main(String[] args) {
         int[] scores = null;
         int studentNum = 0;

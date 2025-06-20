@@ -1,6 +1,6 @@
-package ch05.quiz;
+package ch05.quiz.Q8;
 
-public class Q8 {
+public class Example {
     public static void main(String[] args) {
         int[][] array = {
                 {95, 86},
