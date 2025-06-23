@@ -124,6 +124,11 @@
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[삼항(조건) 연산자 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch03/sec11/ConditionalOperationExample.java)
   ___
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;확인문제
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q3](https://github.com/w00lam/this-is-java/blob/master/src/ch03/quiz/Q3/Example.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q4](https://github.com/w00lam/this-is-java/blob/master/src/ch03/quiz/Q4/Example.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q7](https://github.com/w00lam/this-is-java/blob/master/src/ch03/quiz/Q7/Example.java)
 </details>
 
 <details>
@@ -176,12 +181,12 @@
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;확인문제
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q2](https://github.com/w00lam/this-is-java/blob/master/src/ch04/quiz/Q2.java)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q3](https://github.com/w00lam/this-is-java/blob/master/src/ch04/quiz/Q3.java)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q4](https://github.com/w00lam/this-is-java/blob/master/src/ch04/quiz/Q4.java)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q5](https://github.com/w00lam/this-is-java/blob/master/src/ch04/quiz/Q5.java)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q6](https://github.com/w00lam/this-is-java/blob/master/src/ch04/quiz/Q6.java)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q7](https://github.com/w00lam/this-is-java/blob/master/src/ch04/quiz/Q7.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q2](https://github.com/w00lam/this-is-java/blob/master/src/ch04/quiz/Q2/Example.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q3](https://github.com/w00lam/this-is-java/blob/master/src/ch04/quiz/Q3/Example.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q4](https://github.com/w00lam/this-is-java/blob/master/src/ch04/quiz/Q4/Example.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q5](https://github.com/w00lam/this-is-java/blob/master/src/ch04/quiz/Q5/Example.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q6](https://github.com/w00lam/this-is-java/blob/master/src/ch04/quiz/Q6/Example.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q7](https://github.com/w00lam/this-is-java/blob/master/src/ch04/quiz/Q7/Example.java)
   ___
 </details>
 <details>
