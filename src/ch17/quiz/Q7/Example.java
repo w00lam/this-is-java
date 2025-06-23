@@ -12,10 +12,8 @@ public class Example {
         );
 
         List<Member> developers = list.stream()
-                //--------------------------------------------
                 .filter(m -> m.getJob().equals("개발자"))
                 .toList();
-                //--------------------------------------------
         developers
                 .stream()
                 .forEach(m -> System.out.println(m.getName()));

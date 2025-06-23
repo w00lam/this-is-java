@@ -14,9 +14,7 @@ public class Example {
         );
 
         Map<String, List<Member>> groupingMap = list.stream()
-                //----------------------------------------------
                 .collect(Collectors.groupingBy(Member::getJob));
-                //----------------------------------------------
 
         System.out.println("[개발자]");
         //------------------------------------
