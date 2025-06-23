@@ -250,9 +250,9 @@
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;확인문제
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q7](https://github.com/w00lam/this-is-java/blob/master/src/ch05/quiz/Q7.java)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q8](https://github.com/w00lam/this-is-java/blob/master/src/ch05/quiz/Q8.java)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q9](https://github.com/w00lam/this-is-java/blob/master/src/ch05/quiz/Q9.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q7](https://github.com/w00lam/this-is-java/blob/master/src/ch05/quiz/Q7/Example.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q8](https://github.com/w00lam/this-is-java/blob/master/src/ch05/quiz/Q8/Example.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Q9](https://github.com/w00lam/this-is-java/blob/master/src/ch05/quiz/Q9/Example.java)
   ___
 </details>
 <details>
