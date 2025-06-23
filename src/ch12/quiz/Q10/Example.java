@@ -1,6 +1,6 @@
-package ch12.quiz;
+package ch12.quiz.Q10;
 
-public class Q10 {
+public class Example {
     public static void main(String[] args) {
         String str="";
         StringBuilder sb = new StringBuilder();

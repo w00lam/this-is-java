@@ -1,6 +1,6 @@
-package ch12.quiz;
+package ch12.quiz.Q8;
 
-public class Q8 {
+public class Example {
     public static void main(String[] args) {
         long startTime = System.nanoTime();
 

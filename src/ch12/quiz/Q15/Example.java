@@ -1,9 +1,9 @@
-package ch12.quiz;
+package ch12.quiz.Q15;
 
 import java.time.LocalDateTime;
 import java.time.temporal.ChronoUnit;
 
-public class Q15 {
+public class Example {
     public static void main(String[] args) {
         LocalDateTime startDateTime = LocalDateTime.now();
         LocalDateTime endDateTime = LocalDateTime.of(startDateTime.getYear(), 12, 31, 0, 0, 0);
