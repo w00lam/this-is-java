@@ -635,7 +635,7 @@
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[패키지와 타입 정보 얻기](https://github.com/w00lam/this-is-java/tree/master/src/ch12/sec11/exam01)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[멤버 정보 얻기](https://github.com/w00lam/this-is-java/tree/master/src/ch12/sec11/exam02)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[리소스 경로 얻기(수정필요)]()
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[리소스 경로 얻기](https://github.com/w00lam/this-is-java/tree/master/src/ch12/sec11/exam03)
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12.12 어노테이션
 
