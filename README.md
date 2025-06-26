@@ -657,31 +657,31 @@
 </details>
 <details>
   <summary>
-    Chapter13 
+    Chapter13 제네릭 
   </summary>
 
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13.1
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13.1 제네릭이란?
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch13/sec01)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[제네릭 예제](https://github.com/w00lam/this-is-java/tree/master/src/ch13/sec01)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13.2
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13.2 제네릭 타입
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch13/sec02/exam01)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch13/sec02/exam02)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch13/sec02/exam03)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[제네릭 타입(클래스)](https://github.com/w00lam/this-is-java/tree/master/src/ch13/sec02/exam01)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[제네릭 타입(인터페이스)](https://github.com/w00lam/this-is-java/tree/master/src/ch13/sec02/exam02)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[제네릭 타입(equals() 메소드)](https://github.com/w00lam/this-is-java/tree/master/src/ch13/sec02/exam03)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13.3
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13.3 제네릭 메소드
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch13/sec03)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[제네릭 메소드 예제](https://github.com/w00lam/this-is-java/tree/master/src/ch13/sec03)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13.4
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13.4 제한된 타입 파라미터
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/blob/master/src/ch13/sec04/GenericExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[제한된 타입 파라미터 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch13/sec04/GenericExample.java)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13.5
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13.5 와일드카드 타입 파라미터
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch13/sec05)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[와일드카드 타입 파라미터 예제](https://github.com/w00lam/this-is-java/tree/master/src/ch13/sec05)
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;확인문제
 
@@ -692,46 +692,46 @@
 </details>
 <details>
   <summary>
-    Chapter14
+    Chapter14 멀티 스레드
   </summary>
 
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14.3
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14.3 작업 스레드 생성과 실행
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/blob/master/src/ch14/sec03/exam01/BeepPrintExample.java)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/blob/master/src/ch14/sec03/exam02/BeepPrintExample.java)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/blob/master/src/ch14/sec03/exam03/BeepPrintExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[메인 스레드가 동시에 두 가지 작업을 처리할 수 없음](https://github.com/w00lam/this-is-java/blob/master/src/ch14/sec03/exam01/BeepPrintExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Thread 클래스로 직접 생성](https://github.com/w00lam/this-is-java/blob/master/src/ch14/sec03/exam02/BeepPrintExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Thread 자식 클래스로 생성](https://github.com/w00lam/this-is-java/blob/master/src/ch14/sec03/exam03/BeepPrintExample.java)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14.4
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14.4 스레드 이름
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/blob/master/src/ch14/sec04/ThreadNameExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[스레드 이름 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch14/sec04/ThreadNameExample.java)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14.5
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14.5 스레드 상태
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/blob/master/src/ch14/sec05/exam01/SleepExample.java)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch14/sec05/exam02)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch14/sec05/exam03)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[주어진 시간 동안 일시 정지](https://github.com/w00lam/this-is-java/blob/master/src/ch14/sec05/exam01/SleepExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[다른 스레드의 종료를 기다림](https://github.com/w00lam/this-is-java/tree/master/src/ch14/sec05/exam02)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[다른 스레드에게 실행 양보](https://github.com/w00lam/this-is-java/tree/master/src/ch14/sec05/exam03)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14.6
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14.6 스레드 동기화
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch14/sec06/exam01)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch14/sec06/exam02)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[동기화 메소드 및 블록 선언](https://github.com/w00lam/this-is-java/tree/master/src/ch14/sec06/exam01)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[wait()과 notify()를 이용한 스레드 제어](https://github.com/w00lam/this-is-java/tree/master/src/ch14/sec06/exam02)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14.7
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14.7 스레드 안전 종료
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch14/sec07/exam01)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch14/sec07/exam02)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch14/sec07/exam03)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[조건 이용](https://github.com/w00lam/this-is-java/tree/master/src/ch14/sec07/exam01)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[interrupt() 메소드 이용(1)](https://github.com/w00lam/this-is-java/tree/master/src/ch14/sec07/exam02)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[interrupt() 메소드 이용(2)](https://github.com/w00lam/this-is-java/tree/master/src/ch14/sec07/exam03)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14.8
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14.8 데몬 스레드
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch14/sec08)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[데몬 스레드 예제](https://github.com/w00lam/this-is-java/tree/master/src/ch14/sec08)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14.9
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14.9 스레드풀
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/blob/master/src/ch14/sec09/exam01/ExecutorServiceExample.java)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/blob/master/src/ch14/sec09/exam02/RunnableExecuteExample.java)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/blob/master/src/ch14/sec09/exam03/CallableSubmitExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[스레드풀 종료](https://github.com/w00lam/this-is-java/blob/master/src/ch14/sec09/exam01/ExecutorServiceExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[작업 생성과 처리 요청](https://github.com/w00lam/this-is-java/blob/master/src/ch14/sec09/exam02/RunnableExecuteExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[자연수 덧셈 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch14/sec09/exam03/CallableSubmitExample.java)
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;확인문제
 
@@ -742,47 +742,47 @@
 </details>
 <details>
   <summary>
-    Chapter15
+    Chapter15 컬렉션 자료구조
   </summary>
 
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15.2
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15.2 List 컬렉션
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch15/sec02/exam01)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch15/sec02/exam02)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/blob/master/src/ch15/sec02/exam03/LinkedListExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ArrayList](https://github.com/w00lam/this-is-java/tree/master/src/ch15/sec02/exam01)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Vector](https://github.com/w00lam/this-is-java/tree/master/src/ch15/sec02/exam02)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[LinkedList](https://github.com/w00lam/this-is-java/blob/master/src/ch15/sec02/exam03/LinkedListExample.java)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15.3
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15.3 Set 컬렉션
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/blob/master/src/ch15/sec03/exam01/HashSetExample.java)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/blob/master/src/ch15/sec03/exam02)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/blob/master/src/ch15/sec03/exam03/HashSetExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[HashSet](https://github.com/w00lam/this-is-java/blob/master/src/ch15/sec03/exam01/HashSetExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[hasCode()와 equlas() 메소드 재정의](https://github.com/w00lam/this-is-java/blob/master/src/ch15/sec03/exam02)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[객체 가져오기](https://github.com/w00lam/this-is-java/blob/master/src/ch15/sec03/exam03/HashSetExample.java)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15.4
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15.4 Map 컬렉션
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/blob/master/src/ch15/sec04/exam01/HashMapExample.java)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/blob/master/src/ch15/sec04/exam02/HashtableExample.java)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch15/sec04/exam03)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[HashMap](https://github.com/w00lam/this-is-java/blob/master/src/ch15/sec04/exam01/HashMapExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[HashTable](https://github.com/w00lam/this-is-java/blob/master/src/ch15/sec04/exam02/HashtableExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Properties](https://github.com/w00lam/this-is-java/tree/master/src/ch15/sec04/exam03)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15.5
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15.5 검색 기능을 강화시킨 컬렉션
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/blob/master/src/ch15/sec05/exam01/TreeSetExample.java)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/blob/master/src/ch15/sec05/exam02/TreeMapExample.java)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch15/sec05/exam03)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch15/sec05/exam04)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[TreeSet](https://github.com/w00lam/this-is-java/blob/master/src/ch15/sec05/exam01/TreeSetExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[TreeMap](https://github.com/w00lam/this-is-java/blob/master/src/ch15/sec05/exam02/TreeMapExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Comparable](https://github.com/w00lam/this-is-java/tree/master/src/ch15/sec05/exam03)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Comparator](https://github.com/w00lam/this-is-java/tree/master/src/ch15/sec05/exam04)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15.6
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15.6 LIFO와 FIFO 컬렉션
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch15/sec06/exam01)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch15/sec06/exam02)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Stack](https://github.com/w00lam/this-is-java/tree/master/src/ch15/sec06/exam01)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Queue](https://github.com/w00lam/this-is-java/tree/master/src/ch15/sec06/exam02)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15.7
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15.7 동기화된 컬렉션
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/blob/master/src/ch15/sec07/SynchronizedMapExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[동기화된 컬렉션 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch15/sec07/SynchronizedMapExample.java)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15.8
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15.8 수정할 수 없는 컬렉션
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/blob/master/src/ch15/sec08/ImmutableExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[수정할 수 없는 컬렉션 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch15/sec08/ImmutableExample.java)
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;확인문제
 
@@ -796,35 +796,35 @@
 </details>
 <details>
   <summary>
-    Chapter16
+    Chapter16 람다식
   </summary>
 
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16.1
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16.1 람다식이란?
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch16/sec01)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[람다식 예제](https://github.com/w00lam/this-is-java/tree/master/src/ch16/sec01)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16.2
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16.2 매개변수가 없는 람다식
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch16/sec02/exam01)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch16/sec02/exam01)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[매개변수가 없는 람다식 예제](https://github.com/w00lam/this-is-java/tree/master/src/ch16/sec02/exam01)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[익명 구현 객체를 람다식으로 대체(9.6 예제 수정)](https://github.com/w00lam/this-is-java/tree/master/src/ch16/sec02/exam01)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16.3
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16.3 매개변수가 있는 람다식
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch16/sec03)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[매개변수가 있는 람다식 예제](https://github.com/w00lam/this-is-java/tree/master/src/ch16/sec03)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16.4
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16.4 리턴값이 있는 람다식
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch16/sec04)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[리턴값이 있는 람다식 예제](https://github.com/w00lam/this-is-java/tree/master/src/ch16/sec04)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16.5
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16.5 메소드 참조
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch16/sec05/exam01)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch16/sec05/exam02)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[정적 메소드와 인스턴스 메소드 참조](https://github.com/w00lam/this-is-java/tree/master/src/ch16/sec05/exam01)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[매개변수의 메소드 참조](https://github.com/w00lam/this-is-java/tree/master/src/ch16/sec05/exam02)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16.6
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;16.6 생성자 참조
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch16/sec06)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[생성자 참조 예제](https://github.com/w00lam/this-is-java/tree/master/src/ch16/sec06)
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;확인문제
 
@@ -838,70 +838,70 @@
 </details>
 <details>
   <summary>
-    Chapter17
+    Chapter17 스트림 요소 처리
   </summary>
 
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.1
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.1 스트림이란?
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/blob/master/src/ch17/sec01/StreamExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[스트림 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch17/sec01/StreamExample.java)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.2
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.2 내부 반복자
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/blob/master/src/ch17/sec02/ParallelStreamExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[내부 반복자 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch17/sec02/ParallelStreamExample.java)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.3
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.3 중간 처리와 최종 처리
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch17/sec03)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[중간 처리와 최종 처리 예제](https://github.com/w00lam/this-is-java/tree/master/src/ch17/sec03)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.4
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.4 리소스로부터 스트림 얻기
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch17/sec04/exam01)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/blob/master/src/ch17/sec04/exam02/StreamExample.java)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/blob/master/src/ch17/sec04/exam03/StreamExample.java)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch17/sec04/exam04)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[컬렉션으로부터 스트림 얻기](https://github.com/w00lam/this-is-java/tree/master/src/ch17/sec04/exam01)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[배열로부터 스트림 얻기](https://github.com/w00lam/this-is-java/blob/master/src/ch17/sec04/exam02/StreamExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[숫자 범위로부터 스트림 얻기](https://github.com/w00lam/this-is-java/blob/master/src/ch17/sec04/exam03/StreamExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[파일로부터 스트림 얻기](https://github.com/w00lam/this-is-java/tree/master/src/ch17/sec04/exam04)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.5
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.5 요소 걸러내기(필터링)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/blob/master/src/ch17/sec05/FilteringExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[필터링 예제(distinct()와 filter() 메소드)](https://github.com/w00lam/this-is-java/blob/master/src/ch17/sec05/FilteringExample.java)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.6
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.6 요소 변환(매핑)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch17/sec06/exam01)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/blob/master/src/ch17/sec06/exam02/MapExample.java)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/blob/master/src/ch17/sec06/exam03/FlatMappingExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[요소를 다른 요소로 변환(1)](https://github.com/w00lam/this-is-java/tree/master/src/ch17/sec06/exam01)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[요소를 다른 요소로 변환(2)](https://github.com/w00lam/this-is-java/blob/master/src/ch17/sec06/exam02/MapExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[요소를 복수 개의 요소로 변환](https://github.com/w00lam/this-is-java/blob/master/src/ch17/sec06/exam03/FlatMappingExample.java)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.7
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.7 요소 정렬
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch17/sec07/exam01)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch17/sec07/exam02)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Comparable 구현 객체의 정렬](https://github.com/w00lam/this-is-java/tree/master/src/ch17/sec07/exam01)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Comparator를 이용한 정렬](https://github.com/w00lam/this-is-java/tree/master/src/ch17/sec07/exam02)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.8
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.8 요소를 하나씩 처리(루핑)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/blob/master/src/ch17/sec08/LoopingExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[루핑 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch17/sec08/LoopingExample.java)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.9
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.9 요소 조건 만족 여부(매칭)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/blob/master/src/ch17/sec09/MatchingExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[매칭 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch17/sec09/MatchingExample.java)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.10
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.10 요소 기본 집계
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/blob/master/src/ch17/sec10/AggregateExample.java)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/blob/master/src/ch17/sec10/OptionalExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[스트림이 제공하는 기본 집계](https://github.com/w00lam/this-is-java/blob/master/src/ch17/sec10/AggregateExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Optional 클래스](https://github.com/w00lam/this-is-java/blob/master/src/ch17/sec10/OptionalExample.java)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.11
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.11 요소 커스텀 집계
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch17/sec11)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[요소 커스텀 집계 예제](https://github.com/w00lam/this-is-java/tree/master/src/ch17/sec11)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.12
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.12 요소 수집
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch17/sec12/exam01)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch17/sec12/exam02)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/tree/master/src/ch17/sec12/exam03)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[필터링한 요소 수집](https://github.com/w00lam/this-is-java/tree/master/src/ch17/sec12/exam01)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[요소 그룹핑(1)](https://github.com/w00lam/this-is-java/tree/master/src/ch17/sec12/exam02)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[요소 그룹핑(2)](https://github.com/w00lam/this-is-java/tree/master/src/ch17/sec12/exam03)
   ___
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.13
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.13 요소 병렬 처리
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[](https://github.com/w00lam/this-is-java/blob/master/src/ch17/sec13/ParallelExample.java)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[요소 병렬 처리 예제](https://github.com/w00lam/this-is-java/blob/master/src/ch17/sec13/ParallelExample.java)
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;확인문제
 
