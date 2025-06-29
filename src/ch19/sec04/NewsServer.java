@@ -68,7 +68,7 @@ public class NewsServer {
     }
 
     public static void stopServer() {
-        //DatagramSocket을 닫고 Port 바인딩
+        //DatagramSocket을 닫고 Port 언바인딩
         datagramSocket.close();
         System.out.println("[서버] 종료됨");
     }
