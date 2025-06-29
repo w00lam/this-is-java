@@ -14,7 +14,7 @@ public class NewsServer {
         System.out.println("서버를 종료하셔면 q를 입력하고 Enter 키를 입력하세요.");
         System.out.println("---------------------------------------------");
 
-        //TCP 서버 시작
+        //UDP 서버 시작
         startServer();
 
         //키보드 입력
@@ -27,7 +27,7 @@ public class NewsServer {
         }
         scanner.close();
 
-        //TCP 서버 종료
+        //UDP 서버 종료
         stopServer();
     }
 
