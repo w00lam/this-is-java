@@ -1,7 +1,7 @@
 package ch19.sec06;
 
-import org.json.simple.JSONArray;
-import org.json.simple.JSONObject;
+import org.json.JSONArray;
+import org.json.JSONObject;
 
 import java.io.FileWriter;
 import java.io.IOException;
@@ -11,7 +11,7 @@ import java.nio.charset.StandardCharsets;
 public class CreateJsonExample {
     public static void main(String[] args) throws IOException {
         //JSON 객체 생성
-        JSONObject root = new JSONObject();
+        JSONObject root=new JSONObject();
 
         //속성 추가
         root.put("id", "9duck8");
@@ -27,9 +27,9 @@ public class CreateJsonExample {
 
         //배열 속성 추가
         JSONArray skill = new JSONArray();
-        skill.add("java");
-        skill.add("c");
-        skill.add("c++");
+        skill.put("java");
+        skill.put("c");
+        skill.put("c++");
         root.put("skill", skill);
 
         //JSON 얻기
