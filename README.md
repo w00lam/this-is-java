@@ -587,7 +587,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[객체 해시코드](https://github.com/w00lam/this-is-java/tree/master/src/ch12/sec03/exam02)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[객체 문자 정보](https://github.com/w00lam/this-is-java/tree/master/src/ch12/sec03/exam03)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[레코드 선언](https://github.com/w00lam/this-is-java/tree/master/src/ch12/sec03/exam04)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[롬복 사용하기(수정필요)]()
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[롬복 사용하기](https://github.com/w00lam/this-is-java/blob/master/src/ch12/sec03/exam05/Member.java)
   ___
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12.4 Ststem 클래스
 
